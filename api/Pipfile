@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 django = "==2.2.4"
+psycopg2-binary = "*"
 
 [dev-packages]
 
